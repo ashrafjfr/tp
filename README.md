@@ -1,4 +1,4 @@
-![ConTechLogo](images/ConTechLogo.png)
+![ConTechLogo](docs/images/ConTechLogo.png)
 
 **ConTech** (pronounced as Contact) is a **Command Line Interface (CLI) application for managing computing-related
 contacts**. Specially designed to be optimised for use on the CLI, **ConTech** allows you to seamlessly **add**, **edit**,
