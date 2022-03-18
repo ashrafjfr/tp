@@ -13,6 +13,6 @@ usernames when working with colleagues, or by importing hundreds of contacts wit
 ____
 
 Here are some links that might help you out:
-* [User Guide](UserGuide.md) :book:
-* [Developer Guide](DeveloperGuide.md) :computer:
-* [About Us](AboutUs.md) :family_man_boy::family_man_boy_boy:
+* [User Guide](docs/UserGuide.md) :book:
+* [Developer Guide](docs/DeveloperGuide.md) :computer:
+* [About Us](docs/AboutUs.md) :family_man_boy::family_man_boy_boy:
